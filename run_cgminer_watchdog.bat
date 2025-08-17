@@ -1,0 +1,1 @@
+bash "C:\Users\YoungWolf\Documents\cgminer_watchdog.sh"
