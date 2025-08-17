@@ -3,7 +3,7 @@ import json
 import time
 
 # Telegram Bot Configuration
-TOKEN = "7262132730:AAE3lmwtkvAoKhua4VC1sYlut0hPSW_HIrQ"
+TOKEN = "-"
 CHAT_ID = "1937969055"
 
 # Paths to your JSON status files for both ASICs
@@ -80,3 +80,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
