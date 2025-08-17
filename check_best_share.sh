@@ -2,7 +2,7 @@
 echo "Ran at $(date)" >> /tmp/best_share_log.txt
 
 USER="root"
-PASS="Mikkopaska03"
+PASS="-"
 
 ASIC_IPS=("192.168.1.49" "192.168.1.146")
 HOSTNAMES=("Antminer-L3+ #1" "Antminer-L3+ #2")
@@ -59,3 +59,4 @@ for i in 0 1; do
     echo "No new best share on $HOSTNAME. Current: $best_share"
   fi
 done
+
